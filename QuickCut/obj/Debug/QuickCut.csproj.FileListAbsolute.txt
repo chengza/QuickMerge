@@ -1,0 +1,9 @@
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\bin\Debug\QuickCut.exe.config
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\bin\Debug\QuickCut.exe
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\bin\Debug\QuickCut.pdb
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.csprojResolveAssemblyReference.cache
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.Properties.Resources.resources
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.csproj.GenerateResource.Cache
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.exe
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.pdb
+c:\users\cheng-msi\documents\visual studio 2015\Projects\QuickCut\QuickCut\obj\Debug\QuickCut.QuickCut.resources
